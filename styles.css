@@ -1,0 +1,9 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+body {
+    background-image: linear-gradient(90deg, #c1dfc4 0%, #deecdd 100%);
+}
